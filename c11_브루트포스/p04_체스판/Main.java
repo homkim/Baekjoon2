@@ -1,4 +1,4 @@
-package C11_브루트포스.p04_체스판;
+package c11_브루트포스.p04_체스판;
 
 import java.util.Scanner;
 

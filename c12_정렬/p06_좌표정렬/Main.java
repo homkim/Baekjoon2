@@ -1,4 +1,4 @@
-package C12_정렬.p06_좌표정렬;
+package c12_정렬.p06_좌표정렬;
 
 import java.util.Arrays;
 import java.util.Scanner;

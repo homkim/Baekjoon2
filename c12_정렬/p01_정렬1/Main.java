@@ -1,4 +1,4 @@
-package C12_정렬.p01_정렬1;
+package c12_정렬.p01_정렬1;
 
 import java.util.Arrays;
 import java.util.Scanner;

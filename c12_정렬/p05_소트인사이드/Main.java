@@ -1,4 +1,4 @@
-package C12_정렬.p05_소트인사이드;
+package c12_정렬.p05_소트인사이드;
 
 import java.io.BufferedReader;
 import java.io.IOException;

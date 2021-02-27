@@ -1,4 +1,4 @@
-package C12_정렬.p02_정렬2;
+package c12_정렬.p02_정렬2;
 
 import java.util.ArrayList;
 import java.util.Collections;

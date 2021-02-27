@@ -1,4 +1,4 @@
-package C12_정렬.p03_정렬3;
+package c12_정렬.p03_정렬3;
 
 import java.io.BufferedReader;
 import java.io.IOException;

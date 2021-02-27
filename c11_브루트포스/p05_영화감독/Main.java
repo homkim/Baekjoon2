@@ -1,4 +1,4 @@
-package C11_브루트포스.p05_영화감독;
+package c11_브루트포스.p05_영화감독;
 
 import java.util.Scanner;
 

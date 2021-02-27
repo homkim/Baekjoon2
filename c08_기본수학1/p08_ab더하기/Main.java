@@ -1,4 +1,4 @@
-package C08_기본수학1.p08_ab더하기;
+package c08_기본수학1.p08_ab더하기;
 
 import java.math.BigInteger;
 import java.util.Scanner;

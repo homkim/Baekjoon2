@@ -1,4 +1,4 @@
-package C12_정렬.p04_통계;
+package c12_정렬.p04_통계;
 
 import java.util.Scanner;
 
